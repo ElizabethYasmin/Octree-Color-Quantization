@@ -3,8 +3,9 @@
 </p>
 <br>
 
-<p align="center">
+
 <table>
+  <p align="center">
   <tr>
     <td align="center">
       <a href="#">
@@ -31,8 +32,9 @@
       </a>
     </td>
   </tr>
+    </p>  
 </table>
-</p>  
+
 
 <p align="center">
   <em>
