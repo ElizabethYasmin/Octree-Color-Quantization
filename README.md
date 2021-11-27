@@ -1,4 +1,4 @@
-#Estructura de Datos Avanzado - Laboratorio 04
+# Estructura de Datos Avanzado - Laboratorio 04
 <p align="center">
   <img src="https://github.com/ElizabethYasmin/Octree-Color-Quantization/blob/master/Logo/Cs_unsa.png" height="100"/>
 </p>
