@@ -4,36 +4,7 @@
 <br>
 
 
-<table>
-  <p align="center">
-  <tr>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/62725994?v=4" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
-        <sub>
-          <b>Elizabeth Huanca</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/64212391?v=4" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
-        <sub>
-          <b>Gabriel Valencia</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/64240176?v=4" width="100px;" alt="Foto do Steve Jobs"/><br>
-        <sub>
-          <b>Imanol Moscoso</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-    </p>  
-</table>
+
 
 
 <p align="center">
