@@ -3,7 +3,7 @@
 </p>
 <br>
 
-
+<p align="center">
 <table>
   <tr>
     <td align="center">
@@ -32,7 +32,7 @@
     </td>
   </tr>
 </table>
-  
+</p>  
 
 <p align="center">
   <em>
@@ -47,7 +47,26 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="10px">&nbsp;***Sobre nosotros ....***
 
+## Huanca
 
+Red | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | `ehuancap@unsa.edu.pe`
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> | `https://github.com/ElizabethYasmin`
+
+## Valencia
+
+Red | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | `gvalenciaar@unsa.edu.pe`
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> | `https://github.com/GabrielArana0220`
+
+## Moscoso
+
+Red | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | `imoscosoa@unsa.edu.pe`
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> | `https://github.com/ImaMos01`
   
   
   
